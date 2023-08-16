@@ -29,3 +29,10 @@ Yukarıdaki adımları takip ederek, Unsplash API'sine başarıyla istek atabili
 
 #### Nasıl Kullanılır
 Uygulama, arama çubuğuna herhangi bir kelime yazarak fotoğraf aramanıza olanak tanır. Arama sonuçları hemen aşağıda liste şeklinde gösterilir. Kullanıcılar aradıkları fotoğrafları bu sonuçlar arasından seçebilir ve görüntüleyebilirler.
+
+![image](https://github.com/RabiaKuran/unsplash-search-react-app/assets/59939284/10fac0a8-2919-4bc2-bc8a-535ebaad7c02)
+![image](https://github.com/RabiaKuran/unsplash-search-react-app/assets/59939284/1593ea5a-970e-484e-96ce-bbdd8e52bbda)
+![image](https://github.com/RabiaKuran/unsplash-search-react-app/assets/59939284/2d95c28b-606f-4bcc-8f3f-aafd9252d18a)
+
+
+
